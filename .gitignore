@@ -11,3 +11,6 @@ desktop.ini
 
 # 日志
 *.log
+
+# WorkBuddy 项目数据
+.workbuddy/
